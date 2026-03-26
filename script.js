@@ -1,7 +1,7 @@
 /* =================== TYPED JS =================== */
 document.addEventListener('DOMContentLoaded', () => {
     const typed = new Typed('.typed', {
-        strings: ["Web Developer", "B.Tech AIML Student", "Frontend Enthusiast", "Google Student Ambassador"],
+        strings: ["Web Developer", "B.Tech AIML Student", "Former Google Student Ambassador"],
         typeSpeed: 60,
         backSpeed: 40,
         backDelay: 1000,
